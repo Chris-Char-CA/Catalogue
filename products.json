@@ -1,0 +1,20 @@
+[
+  {
+    "id": "sg01",
+    "name": "Classic Black Sunglasses",
+    "price": 129.99,
+    "colors": 4,
+    "tag": "NEW",
+    "image": "images/sg01.jpg",
+    "description": "Premium UV400 protection with a lightweight frame."
+  },
+  {
+    "id": "sg02",
+    "name": "Aviator Gold Edition",
+    "price": 159.99,
+    "colors": 2,
+    "tag": "ONLINE ONLY",
+    "image": "images/sg02.jpg",
+    "description": "Iconic aviator style with polarized lenses."
+  }
+]
